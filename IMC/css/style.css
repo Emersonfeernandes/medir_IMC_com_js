@@ -1,0 +1,33 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+    padding: 10;
+}
+
+.title {
+    color: blue;
+}
+
+table {
+    margin: auto;
+}
+
+tr, th {
+    padding: 1;
+}
+input {
+    margin-top: 3px;
+    width: 190;
+}
+
+
+button {
+    cursor: pointer;
+}
+
+#result {
+    padding: 20px;
+}
